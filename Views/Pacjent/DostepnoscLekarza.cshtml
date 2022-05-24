@@ -1,0 +1,58 @@
+﻿@model Wizyta 
+@{
+    
+    ViewData["Title"] = "Dostępność lekarza";
+
+}
+<script>
+    function klik() {
+        let data = new Date();
+        let d = data.getDate();
+        let m = data.getMonth() + 1;
+        let y = data.getFullYear();
+        if (d < 10) {
+            d = '0' + d;
+        }
+
+        if (m < 10) {
+            m = '0' + m;
+        }
+        data = y + '-' + m + '-' + d;
+        document.getElementById('data').min = data;
+    }
+</script>
+
+<div class="text-center">
+
+    <h1>Sprawdz dostępność lekarza danego dnia</h1><br />
+    <br />
+    <form  method="post" asp-controller="Pacjent" asp-action="Dostepnosc">
+        <div style="padding: 20px; margin-bottom: 20px;" class="row border border-secondary border-3 rounded">
+            <div class="col">
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="basic-addon2"> ID Lekarza </span>
+                    <input type="text" class="form-control" placeholder="Wpisz numer ID lekarza" aria-label="ID Lekarza" aria-describedby="basic-addon2" asp-for="Lekarz">
+                    <span asp-validation-for="Lekarz" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col">
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="basic-addon2"> Wybierz datę </span>
+                    <input onclick="klik()" id='data' min="2022-05-01" type="date" class="form-control" aria-label="Data" aria-describedby="basic-addon2" asp-for="Data">
+                    <span asp-validation-for="Data" class="text-danger"></span>
+                </div>
+                </div>
+                <br />
+                <br />
+            </div>
+            <input type="submit" class="btn btn-primary" value="Sprawdź">
+
+</form>
+
+</div>
+
+@section scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+

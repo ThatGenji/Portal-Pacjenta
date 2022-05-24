@@ -1,0 +1,90 @@
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Portal Pacjenta.exe
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Portal Pacjenta.deps.json
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Portal Pacjenta.runtimeconfig.json
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Portal Pacjenta.runtimeconfig.dev.json
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Portal Pacjenta.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Portal Pacjenta.pdb
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Portal Pacjenta.Views.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Portal Pacjenta.Views.pdb
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.csproj.AssemblyReference.cache
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.AssemblyInfoInputs.cache
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.AssemblyInfo.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.csproj.CoreCompileInputs.cache
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.RazorAssemblyInfo.cache
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.RazorAssemblyInfo.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\staticwebassets\Portal Pacjenta.StaticWebAssets.Manifest.cache
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\staticwebassets\Portal Pacjenta.StaticWebAssets.xml
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\scopedcss\bundle\Portal Pacjenta.styles.css
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.TagHelpers.input.cache
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.TagHelpers.output.cache
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.RazorCoreGenerate.cache
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Lekarz\ListaLekarzy.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.RazorTargetAssemblyInfo.cache
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.RazorTargetAssemblyInfo.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.Views.pdb
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.pdb
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.genruntimeconfig.cache
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Portal Pacjenta.csproj.CopyComplete
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Wizyty\ListaWizyt.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Pacjent\Pacjent.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Umow\Umow.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Umow\OnPost.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Pacjent\DostepnoscLekarza.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Pacjent\Dostepny.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Pacjent\Niedostepny.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Umow\Anuluj.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Umow\Anulowano.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\obj\Debug\netcoreapp3.1\Razor\Views\Umow\Brak.cshtml.g.cs
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\finland\Desktop\C#\Projekt\Portal Pacjenta\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

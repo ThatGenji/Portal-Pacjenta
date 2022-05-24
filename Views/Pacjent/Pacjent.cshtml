@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Menu Pacjenta";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Menu Pacjenta</h1>
+    <p>Tutaj zobaczysz dostępne dla Ciebie opcje.</p><br /><br />
+    <a class="nav-link text-blue" asp-area="" asp-controller="Umow" asp-action="Umow"><h3>Umów wizytę</h3></a>
+    <br />
+    <a class="nav-link text-blue" asp-area="" asp-controller="Pacjent" asp-action="DostepnoscLekarza"><h3>Sprawdź dostępność lekarza w danym dniu</h3></a>
+    <br />
+    <a class="nav-link text-blue" asp-area="" asp-controller="Umow" asp-action="Anuluj"><h3>Anuluj wizytę</h3></a>
+</div>

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Lekarz>;
+
+@{
+
+        ViewData["Title"] = "Lista lekarzy";
+    //    var lekarz1 = ViewData["Lekarz1"] as Lekarz;
+    //    var lekarz2 = ViewData["Lekarz2"] as Lekarz;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Lista lekarzy</h1>
+    <p>Tutaj zobaczysz całą listę naszych lekarzy</p>
+    <table style="width:100%;" class="table table-striped table-hover table-bordered">
+        <tr class="table table-info">
+            <th>ID</th>
+            <th>Imię</th>
+            <th>Nazwisko</th>
+            <th>Specjalizacja</th>
+        </tr>
+        @foreach (var lekarz in Model)
+        {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => lekarz.ID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => lekarz.Imie)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => lekarz.Nazwisko)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => lekarz.Spec)
+        </td>
+    </tr>
+        }
+    </table>
+
+</div>
